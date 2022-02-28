@@ -6,6 +6,7 @@
    <UUID>5c58261f-670a-4a63-a42b-8497e7c93939</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>D:\Katalon\Location\Lab12\Lab12.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
